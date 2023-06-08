@@ -1,2 +1,1 @@
-# arvind
-Sns college of technology  BE.computer science  final year project
+# car damage detector over BE final year project
